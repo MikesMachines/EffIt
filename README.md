@@ -3,6 +3,8 @@ Repository for info on the EffIt machine. NSFW.
 
 A screw based thrusting machine that operates similar to a typical electric cylinder. Done with parts on hand, not optimized. T10, 20mm lead screw with a 2.5nM motor provides excessive torque, but limited top speed. A 50mm lead is faster while still providing plenty of power. 
 
+Parts: https://github.com/MikesMachines/EffIt/blob/main/EFFIT%20Parts.pdf
+
 The linear bearing prevents rotation by accident, not design. Putting a small slip between the nut and frame prevents rotation without needing to implement an entire guide.
 
 ![IgusInfo](https://github.com/MikesMachines/EffIt/assets/105053125/38960a49-3cc6-4b34-89ab-54a64fd142df)
