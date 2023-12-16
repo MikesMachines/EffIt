@@ -5,7 +5,7 @@ A screw based thrusting machine that operates similar to a typical electric cyli
 
 Parts: https://github.com/MikesMachines/EffIt/blob/main/EFFIT%20Parts.pdf
 
-The linear bearing prevents rotation by accident, not design. Putting a small slip between the nut and frame prevents rotation without needing to implement an entire guide.
+~~The linear bearing prevents rotation by accident, not design.~~ To prevent the tube rotating, a small clip attaches to the nut, which slides along the frame and prevents rotation without needing to implement an entire guide.
 
 ![IgusInfo](https://github.com/MikesMachines/EffIt/assets/105053125/38960a49-3cc6-4b34-89ab-54a64fd142df)
 ![CylinderScrew v7a (Medium)](https://github.com/MikesMachines/EffIt/assets/105053125/f2c81993-eda1-4adf-9270-b57fe0f04b9d)
